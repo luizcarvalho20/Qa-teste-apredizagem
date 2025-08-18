@@ -1,0 +1,11 @@
+{
+  "name": "web-automation-cypress",
+  "version": "1.0.1",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^13.7.0"
+  },
+  "scripts": {
+    "test": "cypress run"
+  }
+}
