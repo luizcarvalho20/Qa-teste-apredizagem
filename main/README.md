@@ -1,4 +1,4 @@
-# QA Portfolio – Starter Pack
+# QA Projeto de teste – 
 
 Este portfólio contém:
 
